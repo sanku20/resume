@@ -1,6 +1,6 @@
 const profileData = {
   title: 'Resume',
-  name: 'Vipin Yadav',
+  name: 'Sanket daware',
   sub_title: 'Frontend Developer',
   logoURL: 'assets/images/dp.jpg',
   about: {
@@ -8,17 +8,14 @@ const profileData = {
      and it's applications. Experienced in designing and implementing sophisticated UI/UX with
       Progressive Web Application standards and application life-cycle managements.`,
     contact: {
-      email: 'imvpn22@gmail.com',
+      email: 'dawaresanku01@gmail.com',
       phone: '+91-9919716378',
       address: 'Bangalore, IN'
     }
   },
   links: [
-    { title: 'Codepen', src: 'https://codepen.io/imvpn22' },
-    { title: 'Github', src: 'https://github.com/imvpn22' },
-    { title: 'LinkedIn', src: 'https://www.linkedin.com/in/imvpn22' }
-    // { title: 'Twitter', src: 'https://twitter.com/imvpn22' }
-    // { title: 'HackerEarth', src: 'https://www.hackerearth.com/@imvpn22' },
+    
+    { title: 'Github', src: 'https://github.com/sanku20' }
   ],
   education: [
     {
